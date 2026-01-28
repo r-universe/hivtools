@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/hivtools/hivtools.r-universe.dev
 	branch = HEAD
+[submodule "SpectrumUtils"]
+	path = SpectrumUtils
+	url = https://github.com/rlglaubius/SpectrumUtils
+	registered = false
 [submodule "leapfrog"]
 	path = leapfrog
 	url = https://github.com/hivtools/leapfrog
