@@ -5,7 +5,7 @@
 [submodule "leapfrog"]
 	path = leapfrog
 	url = https://github.com/hivtools/leapfrog
-	branch = main
+	branch = r-release
 	subdir = leapfrogr
 [submodule "pjnz"]
 	path = pjnz
